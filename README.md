@@ -13,7 +13,7 @@ popular "Read the Docs" formatting. We are transitioning our leaning materials f
 into this format to make them easier to search, use, and update. We will be
 making regular contributions to these materials, and you can suggest new
 materials or create and share your own. If you have ideas or suggestions please
-email `Tutorials@CyVerse.org <mailto:Tutorials@cyverse.org>`_. You can also
+email `Learning@CyVerse.org <mailto:Learning@cyverse.org>`_. You can also
 view, edit, and submit contributions on |Github|.
 
 Getting Started
